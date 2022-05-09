@@ -23,3 +23,22 @@ div{
     justify-content: space-between;
     margin: 1.6rem 0;
 }
+.none{
+    display: none;
+}
+.block1{
+    display: block;
+    color: red;
+}
+.block2{
+    display: block;
+    color: red;
+}
+.block3{
+    display: block;
+    color: red;
+}
+.block4{
+    display: block;
+    color: red;
+}
